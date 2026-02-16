@@ -1,4 +1,4 @@
- 👋 Hi, I'm Tehila Siman Tov
+# 👋 Hi, I'm Tehila Siman Tov
 
 **Full Stack Developer** with hands-on experience in building and maintaining advanced web applications.  
 Proficient in **React**, **Angular**, **Node.js**, **.NET Core**, and modern cloud technologies.
